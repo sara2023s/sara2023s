@@ -1,57 +1,53 @@
-# Sara da Silva
-
+# Sara da Silva  
 **Technical Support Engineer → Aspiring Software Developer & AI Engineer**  
-Based in New Zealand | Passionate about building smart, efficient solutions  
-[buildwithsds.com](https://buildwithsds.com) | hello@buildwithsds.com
+_New Zealand-based | Front-End & Full-Stack Projects | AI Enthusiast_  
+[buildwithsds.com](https://buildwithsds.com) • hello@buildwithsds.com
 
 ---
 
-## About Me
+## 🧠 Who I Am
 
-Driven by curiosity and a desire to build tools that make a difference.  
-After years in tech support, I’ve transitioned into software development and AI engineering—focusing on clean code, user-centered design, and powerful backend logic.
+```txt
+Curious problem-solver turned software developer.  
+Building intuitive interfaces and intelligent systems that scale.  
+Focused on delivering real-world impact with clean code and smart design.
+```
 
-I enjoy turning complex challenges into simple, elegant solutions. Whether it's designing a sleek front-end interface or integrating intelligent features powered by AI, I aim to ship projects that are fast, functional, and built to last.
+## 🔧 Tech Stack
 
----
+```js
+// Languages
+JavaScript • TypeScript • Python • Java • HTML/CSS
 
-## Tech Stack
+// Frameworks & Libraries
+React • Next.js • Tailwind CSS • Node.js • Express
 
-**Languages:** JavaScript, TypeScript, Python, Java, HTML/CSS  
-**Frameworks & Libraries:** React, Next.js, Node.js, Express, Tailwind CSS  
-**Tools & Platforms:** Git, GitHub, Firebase, Vercel, Sentry, Tauri, Bash  
-**AI/ML:** OpenAI API, Azure AI Fundamentals, Google Generative AI  
-**Databases:** MongoDB, SQL  
+// Tools & Platforms
+Git • GitHub • Vercel • Firebase • Tauri • Sentry
 
----
+// AI / ML
+OpenAI API • Azure AI Fundamentals • Google Gen AI
 
-## Featured Projects
+// Databases
+MongoDB • SQL
+```
 
-**AI Interview Helper** – Full-stack tool using OpenAI to simulate and prep for job interviews  
-**NZ Travel Guide** – Modern front-end site exploring New Zealand destinations  
-**Shoe Store** – E-commerce interface with product filtering and responsive design  
-**Gym Website** – Lightweight gym homepage with animated sections and class info  
-**University Portal** – Dynamic dashboard for course listings and updates  
+## 🚀 Featured Projects
+- AI Interview Helper  →  Full-stack OpenAI app for job prep  
+- NZ Travel Guide      →  Front-end site exploring NZ locations  
+- Shoe Store           →  E-commerce UI with filters and product cards  
+- Gym Website          →  Static site with smooth UI animations  
+- University Portal    →  Dynamic dashboard for student content  
 
-Explore all at [buildwithsds.com](https://buildwithsds.com)
+🧩 Check out more at: [buildwithsds.com](https://buildwithsds.com)
 
----
+## 📌 Currently Building
+- An organiser that catrgirizes and resumes your links.  
+- Backend systems with login, analytics & error tracking  
+- Skills for a dev role with strong AI foundations
 
-## Currently Building
- 
-- New backend systems with authentication, error tracking, and logging  
-- Skills for a junior software developer role with a focus on AI applications  
-
----
-
-## Let’s Connect
-
-If you're working on something interesting, want to collaborate, or just want to swap ideas—reach out.
-
-**Email:** hello@buildwithsds.com  
-**LinkedIn:** [http://linkedin.com/in/sara-n-a-dasilva](http://linkedin.com/in/sara-n-a-dasilva)  
-**Website:** [buildwithsds.com](https://buildwithsds.com)
-
----
-
-*Innovating with Software & AI. Crafting efficient code and cutting-edge solutions for tomorrow.*
+## 📬 Let’s Connect
+email: hello@buildwithsds.com  
+portfolio: https://buildwithsds.com  
+linkedin: http://linkedin.com/in/sara-n-a-dasilva
+github: https://github.com/buildwithsds  
