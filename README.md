@@ -49,5 +49,5 @@ MongoDB • SQL
 ## 📬 Let’s Connect
 email: hello@buildwithsds.com  
 portfolio: https://buildwithsds.com  
-linkedin: http://linkedin.com/in/sara-n-a-dasilva
+linkedin: http://linkedin.com/in/sara-n-a-dasilva       
 github: https://github.com/buildwithsds  
